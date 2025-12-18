@@ -130,7 +130,7 @@ Currently exploring strengthening my **C**, **C++**, and **Java fundamentals** f
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
 | **LeetCode** | 8 |  |
-| **CodeChef** | 447 | 990 |
+| **CodeChef** | 452 | 1012 |
 | **CodeForces** | 2 | 621 |
 
 
