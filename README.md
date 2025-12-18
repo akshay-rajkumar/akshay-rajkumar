@@ -70,7 +70,7 @@ Currently exploring strengthening my **C**, **C++**, and **Java fundamentals** f
   </tr>
 
   <tr>
-    <td><b>ECHOSOUL</b><br><i></i></td>
+    <td><b></b><br><i></i></td>
     <td>
     </td>
     <td>
