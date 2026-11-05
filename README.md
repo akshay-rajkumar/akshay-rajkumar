@@ -92,6 +92,8 @@ Java · Spring Boot · React · TypeScript · PostgreSQL · OPA · Rego
 </td>
 <td width="50%" valign="top">
 
+
+
 ### 🎬 HORIZONX
 
 A modern movie discovery and streaming platform prototype powered by TMDB.
@@ -165,10 +167,10 @@ Java · Spring Boot · Spring Security · Thymeleaf · MySQL
 
 | Platform | Problems Solved | Max Rating |
 |:---|:---:|:---:|
-| LeetCode | 8 | — |
-| CodeChef | 452 | 1012 |
+| LeetCode | 88 | 1336 |
+| CodeChef | 550 | 1066 |
 | Codeforces | 2 | 621 |
-| **Total** | **462+** | — |
+| **Total** | **640+** | — |
 
 </div>
 
