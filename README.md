@@ -20,7 +20,7 @@
 
 ```bash
 $ whoami
-akshay-rajkumar
+A Akshay
 
 $ cat about.json
 {
