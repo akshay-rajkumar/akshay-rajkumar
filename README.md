@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Akshay%20A&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=70" width="100%" />
@@ -155,6 +154,25 @@ Java · Spring Boot · Spring Security · Thymeleaf · MySQL
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Ghostware
+
+Security monitoring and automated threat response system.
+
+**Tech Stack**
+
+Python · Isolation Forest · WebSockets · Linux · nftables · Bash
+
+<a href="https://github.com/sangeethmarisamy/Ghostware">View Project →</a>
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 ---
@@ -186,7 +204,7 @@ Java · Spring Boot · Spring Security · Thymeleaf · MySQL
 
 <br/><br/>
 
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-rajkumar&theme=transparent&hide_border=true" />
+<img width="65%" src="https://streak-stats.demolab.com/?user=akshay-rajkumar&theme=transparent&hide_border=true" />
 
 <br/><br/>
 
@@ -200,7 +218,7 @@ Java · Spring Boot · Spring Security · Thymeleaf · MySQL
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/akshay-rajkumar/akshay-rajkumar/output/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
+<img src="https://raw.githubusercontent.com/akshay-rajkumar/akshay-rajkumar/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 
 </div>
 
